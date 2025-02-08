@@ -1,6 +1,6 @@
 {
     "version": "5.0.1",
-    "update_url": "https://github.com/BaHost01/Driver-Updater-FREE-VERSION-/archive/main.zip",
+    "update_url": "https://github.com/BaHost01/Driver-Updater-Plus",
     "check_update": "https://raw.githubusercontent.com/BaHost01/Driver-Updater-Plus/refs/heads/main/VER/Version",
     "backup_dir": "backups",
     "log_dir": "logs",
