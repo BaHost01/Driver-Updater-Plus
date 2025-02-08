@@ -1,7 +1,7 @@
 {
     "version": "3.0.1",
     "update_url": "https://github.com/BaHost01/Driver-Updater-FREE-VERSION-/archive/main.zip",
-    "check_update": "",
+    "check_update": "https://raw.githubusercontent.com/BaHost01/Driver-Updater-Plus/refs/heads/main/VER/Version",
     "backup_dir": "backups",
     "log_dir": "logs",
     "script_protection": true,
